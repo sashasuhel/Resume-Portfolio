@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create *)",
+      "WebSearch",
+      "WebFetch(domain:developer.chrome.com)",
+      "WebFetch(domain:css-tricks.com)",
+      "WebFetch(domain:www.bram.us)",
+      "WebFetch(domain:luis-marton.github.io)",
+      "WebFetch(domain:codepen.io)",
+      "WebFetch(domain:www.smashingmagazine.com)",
+      "WebFetch(domain:web.dev)"
+    ]
+  }
+}
